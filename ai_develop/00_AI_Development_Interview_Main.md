@@ -14,6 +14,8 @@
    - 包含：GPT、Claude、Gemini、DeepSeek、Qwen 五大巨头的技术基因、核心壁垒、迭代重点对比矩阵。
 3. **[03_bubble_paradox_and_future_horizon.md](./03_bubble_paradox_and_future_horizon.md)** —— *《AI 泡沫悖论、能源与监管博弈及未来十年（2026–2036）终局推演》*
    - 包含：万亿 CapEx 与 ROI 剪刀差、电网与物理墙、开源与闭源护城河、World Models（世界模型）、Embodied AI（具身智能）与 AI4Science。
+4. **[04_Follow_up_QA_Deep_Dive.md](./04_Follow_up_QA_Deep_Dive.md)** —— *《深度访谈追问录：计算机体系结构、算力经济学与技术细节深潜》*
+   - 包含后续连续追问记录（如追问一：AI 加速卡为何只有 3～4 年高价值经济寿命？显卡供需两极分化与复用的四大硬件/系统限制）。
 
 ---
 
